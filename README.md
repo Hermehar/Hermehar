@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Hermehar/Hermehar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a Computer Science Student, studying at CGC Landran.
 - 🌱 Previously, I have worked as an web developer intern with an US based Tech startup MadlyRad Labs, Inc.
 - 💬 My projects: Brain Infection Detector using ![image](https://user-images.githubusercontent.com/63737394/124374069-be032300-dcb5-11eb-9fd4-ced7b2b79e70.png)
