@@ -21,7 +21,6 @@ I’m a passionate researcher and developer exploring **Emerging Technologies** 
 - 📚 **Publications**  
   - 📰 *02 Journal Articles*  
   - 🗣️ *01 Conference Paper*  
-  - 🌐 *03 Web Articles*  
   - 📘 *03 Book Chapters*  
 
 ---
