@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hermehar P. Singh Bedi  
+# 👋 Hi there! I'm Hermehar Pal Singh Bedi  
 
 🎓 **PhD Scholar @ IIIT Delhi**  
 💻 **Computer Science Graduate | CGC Landran**  
@@ -39,8 +39,8 @@ I’m a passionate researcher and developer exploring **Emerging Technologies** 
 
 ### 📫 Let’s Connect  
 
-🌍 [Website](https://sites.google.com/iiitd.ac.in/hermeharbedi) *(Add your site if available)*  
-💼 [LinkedIn](#https://www.linkedin.com/in/hermeharbedi/)  
+🌍 **Website:** https://sites.google.com/iiitd.ac.in/hermeharbedi
+💼 **LinkedIn:** https://www.linkedin.com/in/hermeharbedi/  
 📧 **Email:** hermeharbedi@gmail.com  
 
 ---
