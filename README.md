@@ -1,11 +1,56 @@
-### Hi there 👋
+# 👋 Hi there! I'm Hermehar P. Singh Bedi  
 
-- 🔭 I’m currently a PhD Scholar @ IIIT Delhi.
-- 🥇 I have completed my undergraduate degree in Computer Science from CGC Landran.
-- ⭐ I am interested in carrying out my research in Emerging Technologies to solve real life problems.
-- 🥇 My project on Brain Tumor Detection from MRI images is showcased at Stanford University's official Website. Do visit it at: https://codeinplace.stanford.edu/2021/showcase/152
-- 🔭 Published 02 Journal Articles, 01 Conference Article, 03 Web Articles and 03 Book Chapters. 
-- ✉️ Gmail: hermeharbedi@gmail.com
-- 📫 LinkedIn: www.linkedin.com/in/hermeharbedi
+🎓 **PhD Scholar @ IIIT Delhi**  
+💻 **Computer Science Graduate | CGC Landran**  
+🌟 **HCAI Researcher | Technologist**
+
+---
+
+### 🚀 About Me  
+
+I’m a passionate researcher and developer exploring **Emerging Technologies** to craft real-world solutions with meaningful impact. My current research work bridges **GenAI, XR, and Architecture**, driven by curiosity, creativity, and a commitment to innovation.  
+
+💡 *"Turning ideas into impactful innovations through data and intelligence."*
+
+---
+
+### 🧠 Research Highlights  
+
+- 🧬 **Brain Tumor Detection from MRI Images** — A featured project on **Stanford University's official website**!  
+  🖥️ [View it here](https://codeinplace.stanford.edu/2021/showcase/152)  
+- 📚 **Publications**  
+  - 📰 *02 Journal Articles*  
+  - 🗣️ *01 Conference Paper*  
+  - 🌐 *03 Web Articles*  
+  - 📘 *03 Book Chapters*  
+
+---
+
+### 🔬 Research Interests  
+
+- 🧠 Artificial Intelligence & Machine Learning
+- 🌐 Extended Reality
+- 🧩 Deep Learning for Real-World Problem Solving  
 
 
+### 🏆 Achievements  
+
+- 🥇 **Showcased by Stanford University** for exceptional project in AI and Healthcare  
+- 🔭 **Published Research** spanning *AI, Image Processing, and Intelligent Systems*  
+- 🧩 **Mentored** undergraduate students in coding and research initiatives  
+
+---
+
+### 📫 Let’s Connect  
+
+🌍 [Website](https://sites.google.com/iiitd.ac.in/hermeharbedi) *(Add your site if available)*  
+💼 [LinkedIn](#https://www.linkedin.com/in/hermeharbedi/)  
+📧 **Email:** hermeharbedi@gmail.com  
+
+---
+
+### ✨ “The best way to predict the future is to invent it.” – Alan Kay  
+
+⭐ If you find my work inspiring, consider following or connecting — collaboration fuels innovation!
+
+---
