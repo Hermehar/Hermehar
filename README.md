@@ -39,9 +39,9 @@ I’m a passionate researcher and developer exploring **Emerging Technologies** 
 
 ### 📫 Let’s Connect  
 
-🌍 **Website:** https://sites.google.com/iiitd.ac.in/hermeharbedi
-💼 **LinkedIn:** https://www.linkedin.com/in/hermeharbedi/  
-📧 **Email:** hermeharbedi@gmail.com  
+- 🌍 **Website:** https://sites.google.com/iiitd.ac.in/hermeharbedi
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hermeharbedi/  
+- 📧 **Email:** hermeharbedi@gmail.com  
 
 ---
 
