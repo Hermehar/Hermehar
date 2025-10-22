@@ -10,18 +10,16 @@
 
 I’m a passionate researcher and developer exploring **Emerging Technologies** to craft real-world solutions with meaningful impact. My current research work bridges **GenAI, XR, and Architecture**, driven by curiosity, creativity, and a commitment to innovation.  
 
-💡 *"Turning ideas into impactful innovations through data and intelligence."*
-
 ---
 
 ### 🧠 Research Highlights  
 
-- 🧬 **Brain Tumor Detection from MRI Images** — A featured project on **Stanford University's official website**!  
-  🖥️ [View it here](https://codeinplace.stanford.edu/2021/showcase/152)  
 - 📚 **Publications**  
   - 📰 *02 Journal Articles*  
   - 🗣️ *01 Conference Paper*  
-  - 📘 *03 Book Chapters*  
+  - 📘 *03 Book Chapters*
+- 🧬 **Brain Tumor Detection from MRI Images** — A featured project on **Stanford University's official website**!  
+  🖥️ [View it here](https://codeinplace.stanford.edu/2021/showcase/152)   
 
 ---
 
@@ -29,8 +27,7 @@ I’m a passionate researcher and developer exploring **Emerging Technologies** 
 
 - 🧠 Artificial Intelligence & Machine Learning
 - 🌐 Extended Reality
-- 🧩 Deep Learning for Real-World Problem Solving  
-
+- 🧩 Generative and Human Centered AI
 
 ### 🏆 Achievements  
 
